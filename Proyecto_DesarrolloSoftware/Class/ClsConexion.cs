@@ -23,7 +23,7 @@ namespace Proyecto_DesarrolloSoftware
             public ClsConexion()
             {
                 // Asigna la cadena de conexión a la variable de instancia
-                connectionString = "Server=localhost;Database=solfarma_predefinido;Uid=root;Pwd=042002";
+                connectionString = "Server=localhost;Database=solfarma_predefinido;Uid=root;Pwd=[tucontrasena]";
             }
             public string GetConnectionString()
             {
